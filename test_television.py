@@ -1,4 +1,4 @@
-import pytest
+
 from television import Television
 
 def test_init():

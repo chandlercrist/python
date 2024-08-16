@@ -10,6 +10,7 @@ class Television:
         self.__volume = Television.MIN_VOLUME
         self.__channel = Television.MIN_CHANNEL
 
+    
     def power(self):
         self.__status = not self.__status
 
